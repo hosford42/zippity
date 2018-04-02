@@ -2,8 +2,7 @@
 
 *A simple zip file-based persistence library*
 
-Copyright Aaron Hosford, 2018
-MIT License
+Copyright Aaron Hosford, 2018 (MIT License)
 
 
 Usage:
